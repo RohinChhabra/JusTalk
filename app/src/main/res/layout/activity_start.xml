@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient1"
+    tools:context=".StartActivity">
+
+    <TextView
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:fontFamily="@font/alexbrush_regular"
+        android:layout_centerHorizontal="true"
+        android:text="JusTalk"
+        android:textColor="#FFFFFF"
+        android:textSize="90sp"
+        android:textStyle="bold" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:fontFamily="@font/kaushanscript_regular"
+        android:background="#1F2D2E"
+        android:textColor="#FFFFFF"
+        android:text="LOGIN"
+        android:id="@+id/b1"
+        android:layout_marginTop="400dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:fontFamily="@font/kaushanscript_regular"
+        android:background="#1F2D2E"
+        android:textColor="#FFFFFF"
+        android:id="@+id/b2"
+        android:text="REGISTER"
+        android:layout_marginTop="460dp"/>
+
+
+</RelativeLayout>

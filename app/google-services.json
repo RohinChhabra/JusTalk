@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "855241549484",
+    "firebase_url": "https://justalk-6e664.firebaseio.com",
+    "project_id": "justalk-6e664",
+    "storage_bucket": "justalk-6e664.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855241549484:android:b143cd0151924c0f626109",
+        "android_client_info": {
+          "package_name": "com.example.justalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855241549484-20at7uakc0o1tfaaveekot8vme5krhgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.justalk",
+            "certificate_hash": "12e886af589697489c7ac5363e6a7dcc1ba6fb3a"
+          }
+        },
+        {
+          "client_id": "855241549484-np2apslb16n47hblvrtn3k530skvrhvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARN0Qf0uY8ysqjyrUsmn1jrRVzubncfGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855241549484-np2apslb16n47hblvrtn3k530skvrhvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
